@@ -1,2 +1,2 @@
 # School-Portal
-Applivants Portal, Student Portal and Staff Portal
+Applicants Portal, Student Portal and Staff Portal
